@@ -26,3 +26,12 @@ Garantir a alta disponibilidade, estabilidade e conformidade de SLA de links de 
 
 ---
 *Em breve: Adicionarei novos laboratórios práticos focados em Kali Linux, Pentest e Análise de Vulnerabilidades sob a marca CypherStrike.*
+
+
+---
+
+## 📫 Cont contato
+
+* 💼 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/hebert-matos-0904a1143/)
+* 📧 **E-mail:** [hebertmattos182@gmail.com]
+
